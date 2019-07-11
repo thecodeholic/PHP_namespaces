@@ -1,8 +1,6 @@
 <?php
 
 namespace TheCodeholic;
-// The same as the following
-//namespace thecodeholic;
 
 class User{}
 interface UserInterface{}
